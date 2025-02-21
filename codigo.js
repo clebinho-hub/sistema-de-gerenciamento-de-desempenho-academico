@@ -8,7 +8,7 @@ botao.addEventListener('click', function(event) {
     
     console.log("Botão clicado!");  // Verifica se o código está rodando
     
-    if (nome === 'carlos' && senha === 'senha123') {
+    if (nome === 'usuario' && senha === 'senha123') {
         console.log("Dados corretos! Redirecionando...");
         window.location.href = 'outraPagina.html';  // Redireciona para outra página
     } else {
