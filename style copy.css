@@ -47,16 +47,6 @@ header{
 section.sobre{
     height: calc(100%-200px);
     position: relative;
-}
-
-.extras{
-    position: absolute;
-    bottom: -650px;
-    right: -500px;
-    width: 1000px;
-    height: 1000px;
-    border-radius: 50%;
-    background-color: #5cb85c;
 
 }
 
